@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Pizzazious MERN Web App
+
+Developed a Pizza Shop web app using the MERN stack (MongoDB, Express, React, Node.js), with a responsive frontend built in React and Bootstrap. Implemented Google login for user authentication and created backend APIs with Node.js and Express, using MongoDB for data storage and management
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
