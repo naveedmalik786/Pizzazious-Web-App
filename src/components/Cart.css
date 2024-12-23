@@ -1,0 +1,14 @@
+.offcanvas
+{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.bottom
+{
+    width: 93%;
+}
+.cartItems
+{
+    max-height: 78%;
+    overflow-y: scroll;
+}

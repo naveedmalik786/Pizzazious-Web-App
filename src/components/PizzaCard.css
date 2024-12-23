@@ -1,0 +1,41 @@
+.pizcard
+{
+    border-radius: 15px;
+    border: none;
+}
+.card
+{
+    border-radius: 15px;
+    border: none;
+}
+.card-img
+{
+    border-radius: 15px;
+}
+.card .btndiv
+{
+    width: 92%;
+}
+.cardcont
+{
+    height: max-content;
+}
+.cardcont h2
+{
+    text-align: left;
+}
+.cardcont h4
+{
+    width: 100%;
+    color: #B4BCCF;
+    font-size: medium;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: left;
+}
+.cardcont h3
+{
+    margin: auto 0px;
+    color: #01C550;
+}

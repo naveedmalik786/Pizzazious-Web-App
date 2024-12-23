@@ -1,0 +1,16 @@
+.modal-header
+{
+    background: linear-gradient(51deg, rgba(53,37,166,1) 0%, rgba(158,25,200,1) 93%);
+}
+.logregbtn
+{
+    background: linear-gradient(51deg, rgba(53,37,166,1) 0%, rgba(158,25,200,1) 93%);
+}
+.fpswrd
+{
+    text-align: right;
+}
+.fpswrd:hover
+{
+    cursor: pointer;
+}

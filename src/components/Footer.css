@@ -1,0 +1,11 @@
+.footerlogo
+{
+    width: 200px;
+}
+.footer .row
+{
+    text-align: left;
+    background-color: white;
+    border-top-left-radius: 23px;
+    border-top-right-radius: 23px;
+}

@@ -1,0 +1,11 @@
+.pItem
+{
+    background-color: rgba(180, 188, 207, 0.3);
+    border-radius: 10px;
+}
+.pItemBtns
+{
+    right: 0;
+    bottom: 10px;
+    width: max-content;
+}
